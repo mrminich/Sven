@@ -1,11 +1,5 @@
-# Sven
-smart vending machine
+# Sven Project Specs
 
+A smart vending machine located in the back of Mr. Minich's Room 311 classroom. Java code executes on an attached Raspberry Pi computer giving it amazing 22nd Century functionality!
 
 See https://repl.it/@cminich/Java-Sven-version-1
-
-Due Dates
-
-By Thursday (end of class) post some or all of your Sven code in your github repo that is devoted to the Sven project.
-By Friday, be ready to submit your next contribution of a teacher's requested TODO or your own update idea.
-
