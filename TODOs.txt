@@ -1,0 +1,17 @@
+Cooper
+- add chatbot functionality with levels of conversation
+
+Dan
+- add customer purchase functionality
+
+Seamus
+- hide PIN code
+
+Justin
+- Easter egg (hidden) game
+
+Jack
+- colorize ASCII art
+
+Kristin
+- add customer functionality with inventory levels
