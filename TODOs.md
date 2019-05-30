@@ -10,21 +10,19 @@
 
 ---
 
-
-
-**Elliott**
+Elliott
 - mod Minecraft Pi with Sven specific features
 
-**Ainsley**
+Ainsley
 - research the integration of Vex with Sven
 
 Cooper
 - add chatbot functionality with levels of conversation
 
-**Dan**
+Dan
 - add customer purchase functionality
 
-# Seamus
+Seamus
 - hide PIN code
 
 Justin
