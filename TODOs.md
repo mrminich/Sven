@@ -35,5 +35,5 @@ Henry
 Braedan 
 - ?
 
-Jedidiah
+# Jedidiah
 - display current date/time & possibly weather forecast before the menu when the program launches
