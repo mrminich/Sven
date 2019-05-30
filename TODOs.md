@@ -24,7 +24,7 @@ Cooper
 **Dan**
 - add customer purchase functionality
 
-Seamus
+# Seamus
 - hide PIN code
 
 Justin
