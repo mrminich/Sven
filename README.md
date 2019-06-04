@@ -23,7 +23,7 @@ Per 3 - Wed Jun 5 7:30 - 9 am
 **Highly recommended:**
 - wear nice clothes (collar shirt) for your presentation that will be videotaped so you can edit it for your personal portfolio. A green screen is available.
 - make photocopies of handouts or be ready to print them on the Room 311 printer
-- The audience can sit around a table for Q & A or in row seating near the room's videoscreen 
+- The audience can sit around a table for Q & A or in row seating near the room's videoscreen  
 
 ---
 
