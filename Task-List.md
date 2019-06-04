@@ -1,4 +1,4 @@
-# Task List and TODOs
+# Task List
 
 Elliott
 - mod Minecraft Pi with Sven specific features
