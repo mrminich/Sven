@@ -66,8 +66,11 @@ class Main
     if (userMenuChoice.equals("1") || userMenuChoice.equals("A") || userMenuChoice.equals("a"))
     {
       // jsoto7 *****************************************************************
+      
       System.out.println("Please enter PIN: "); // -----------------------------------------------
-      PIN = keyboard.nextLine();                // {[- My Contribution to the Svend Project -]} 
+      
+      String PIN = keyboard.nextLine();         // {[- My Contribution to the Svend Project -]} 
+      
       if (PIN.equals("0000"))                   // ----------------------------------------------- 
       {
         System.out.println("[-]ADMIN MODE[-]");
@@ -75,10 +78,11 @@ class Main
         newItem = keyboard.nextLine();
         itemsForSale.addItem(newItem);
         System.out.println("Your New Item Is: ");
+        
         for (int i = 0; i < itemsForSale.numberOfItems(); i++)
-      {
-        System.out.println((i + 1) + "." + itemsForSale.selectItem(i) + "\n");
-      }
+        {
+          System.out.println((i + 1) + "." + itemsForSale.selectItem(i) + "\n");
+        }
       }
       else if (!(PIN.equals("0000"))) // // jsoto7 contribution 
       {
