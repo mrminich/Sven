@@ -29,7 +29,9 @@ class Main
     String userMenuChoice = "";   // human inputted menu choice
     String newItem = "";          // new item added to inventory
     int customerSelection = 0;    // customer selection from menu list of items
-    ** String PIN = "";              // {[-My Contribution to the Svend Project-]} **
+    
+    // jsoto7 *****************************************************************
+    String PIN = "";              // {[-My Contribution to the Svend Project-]} 
 
     // read the list of items from  external file
     try
@@ -63,9 +65,10 @@ class Main
 
     if (userMenuChoice.equals("1") || userMenuChoice.equals("A") || userMenuChoice.equals("a"))
     {
-      ** System.out.println("Please enter PIN: "); // ----------------------------------------------- **
-      ** PIN = keyboard.nextLine();                // {[- My Contribution to the Svend Project -]} **
-      ** if (PIN.equals("0000"))                   // ----------------------------------------------- **
+      // jsoto7 *****************************************************************
+      System.out.println("Please enter PIN: "); // -----------------------------------------------
+      PIN = keyboard.nextLine();                // {[- My Contribution to the Svend Project -]} 
+      if (PIN.equals("0000"))                   // ----------------------------------------------- 
       {
         System.out.println("[-]ADMIN MODE[-]");
         System.out.print("What is your new item? ");
@@ -77,7 +80,7 @@ class Main
         System.out.println((i + 1) + "." + itemsForSale.selectItem(i) + "\n");
       }
       }
-      ** else if (!(PIN.equals("0000"))) **
+      else if (!(PIN.equals("0000"))) // // jsoto7 contribution 
       {
         System.out.println("INCORRECT PASSWORD.");
       }
