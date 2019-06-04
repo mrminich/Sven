@@ -37,7 +37,7 @@ Henry
 - ?
 
 Braedan 
-- ASCII art
+- ASCII art 
 - ?
 
 Jedidiah
